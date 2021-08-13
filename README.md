@@ -1,28 +1,8 @@
 # Workout Tracker
 
-## What is the project?
+## Project Description
 
-This project demonstrates the use of JavaScript in conjunction with MongoDB. With Workout Tracker, a user can log different types fo resistance and cardio excercises and keep track on their progress.
-
-## Link to Deployed Project  
-
-https://nameless-hollows-61913.herokuapp.com/?id=60b410629cf0e7001556a455
-
-## What were the challenges?
-
-I kept running into the challenge of being able to pull up all the recent workouts, however I was able to resolve that in the routes files.
-
-## Why did I decide to do this project?
-
-I am a very visual person and my motivation comes from me being able to see progress and numbers. With this applicaton, not only can you add in yout workout and stay accountable that way, but you can also clearly see advances and progress in the form of a chart.
-
-## What I learned in the process?
-
-I learned so much about MongoDB and to deploy an application on Heroku that uses this type of database structure.
-
-## What makes this project stand out?
-
-This application is really useful for someone who is either unmotivated to work out or who is having a hard time tracking their workouts. It is also very user friendly and easy to use.
+This project demonstrates the use of JavaScript in conjunction with MongoDB. With **Workout Tracker**, a user can log different types fo resistance and cardio excercises and keep track on their progress.
 
 ## Project Screenshot  
 
@@ -31,11 +11,25 @@ This application is really useful for someone who is either unmotivated to work 
 ![Dashboard](public/images/image2.png)
 
 ![Add Exercise](public/images/image3.png)
- 
 
-## Instalation
+## Link to Deployed Project  
 
-No instalation required on this project. Simply run as a normal website.
+https://nameless-hollows-61913.herokuapp.com/?id=60b410629cf0e7001556a455
+
+## Background
+
+I am a very visual person and my motivation comes from me being able to see progress and numbers. With this applicaton, not only can you add in yout workout and stay accountable that way, but you can also clearly see advances and progress in the form of a chart.
+
+
+## Challenges
+
+I kept running into the challenge of not being able to pull up all the recent workouts, however I was able to resolve that in the routes files.
+
+## Learnings
+
+I learned so much about MongoDB and to deploy an application on Heroku that uses this type of database structure.
+
+## Usage
 
 ## Credits
 

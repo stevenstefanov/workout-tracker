@@ -1,6 +1,9 @@
+// Define dependencies
 const router = require('express').Router();
 const { Workout } = require('../../models');
 
+
+// Routes
 router.get('/', (req, res) =>
   Workout.find({})
     .sort({ date: -1 })
