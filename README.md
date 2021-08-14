@@ -31,9 +31,11 @@ I learned so much about MongoDB and to deploy an application on Heroku that uses
 
 ## Usage
 
+When launching the app, the user is presented with a short summary of their last workout, if it exists in the database and the option to either continue that workout or to start a new one. From there, whether they select to begin a new oen or to continue their current workout, the steps are the same - the user will select the type of excersice they have performed and enter in all the necessary information. Once entered, they can press "Complete" to complete the workout or "Add Excercise" to add this workout and then have the chance to add another activy as part of the same workout. At any time, the user can click on "Dashboard" in the top left corner and they can see a very detailed summary of their workouts with numbers and charts.
+
 ## Credits
 
-Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned. Credit also goes to Google for helping me find any needed resource.
+Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned.
 
 ## Licence
 
